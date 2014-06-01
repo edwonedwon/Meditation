@@ -8,3 +8,6 @@ UnityGenerated/
 *.sln
 
 *.csproj
+
+/Assets/Editor/
+/Assets/Standard Assets/
